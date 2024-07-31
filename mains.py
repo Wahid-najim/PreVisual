@@ -16,7 +16,7 @@ import seaborn as sns
 class DataVisualizerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Data Preprocessing and Visualization Tool")
+        self.root.title("Data PreproVisualiz")
 
         self.upload_button = tk.Button(root, text="Upload Data File", command=self.upload_file)
         self.upload_button.pack(pady=20)
