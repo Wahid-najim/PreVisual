@@ -8,11 +8,11 @@ Data Visualization: Visualize data distributions, correlations, and relationship
 Installation
 Clone the repository:
 
-    git clone https://github.com/yourusername/DataPreproVisualiz.git
+     https://github.com/Wahid-najim/PreVisual.git
 
 Navigate to the project directory:
 
-     cd DataPreproVisualiz
+     cd PreVisual
 
 Install the required libraries:
 
