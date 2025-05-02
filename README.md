@@ -1,6 +1,7 @@
 # Data PreproVisualiz
 Data PreproVisualiz is a Python application for preprocessing and visualizing data. This tool allows users to upload CSV files, preprocess the data, and visualize various aspects of the dataset.
 
+
 # Features
 File Upload: Upload CSV files for data analysis.
 Data Preprocessing: Handle missing values, encode categorical data, handle imbalanced data, and scale features.
